@@ -8,6 +8,8 @@
 <h3 align="center">Web Development Enthusiast. Third Year Computer Engineering Student at Pune Institute of Computer Technology.</h3>
 
 - 📫 How to reach me **prathameshdikondwar@gmail.com**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh47&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh47" /> </p>
 <!--
 **Prathamesh47/Prathamesh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
