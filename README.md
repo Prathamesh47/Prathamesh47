@@ -1,9 +1,5 @@
 
 
-<div>
-  <img width="100%" src="https://github.com/Prathamesh47/Prathamesh47/blob/main/assets/Shimmer.png">
-</div>
-
 <h1 align="center">Hi 👋, Prathamesh Dikondawar</h1>
 <h3 align="center">Web Development Enthusiast. Third Year Computer Engineering Student at Pune Institute of Computer Technology.</h3>
 
