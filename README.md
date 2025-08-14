@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Dikondawar</h1>
-<h3 align="center">Web Development Enthusiast | Third Year Computer Engineering Student @ Pune Institute of Computer Technology</h3>
+<h3 align="center">Web Development Enthusiast | @ Pune Institute of Computer Technology</h3>
 
 ---
 
